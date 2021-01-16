@@ -1,6 +1,6 @@
 console.log("Morning work for 1/16/21");
 
-/*function thisIsTrue(arg1, arg2) {
+function thisIsTrue(arg1, arg2) {
   if (arg1 !== "nice" && arg2 !== "Nice") {
     
   console.log(`You are ${arg1}`);
